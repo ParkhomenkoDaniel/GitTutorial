@@ -18,5 +18,6 @@ let day = hour / 24;
      alert(('0' + min % 60).slice(-2) + "min");
   }
 }
-GetNum()
+GetNum();
+
 </script>
